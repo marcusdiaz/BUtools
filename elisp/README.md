@@ -94,4 +94,5 @@ In cscope buffer:
 |---|---|
 |**Ctrl-x Ctrl-s**| save current file|
 |**Ctrl-e Ctrl-w**| write current file to specified file name | 
+|**Ctrl-x 0**| Close selected window | 
 
