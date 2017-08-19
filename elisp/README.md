@@ -88,3 +88,10 @@ In cscope buffer:
 |---|---|
 |**Ctrl-e s**| git status (most commands only work from this screen)|
 |**Ctrl-e b**| toggle git blame (works in a file context)|
+
+### emacs basics
+|   |   |
+|---|---|
+|**Ctrl-x Ctrl-s**| save current file|
+|**Ctrl-e Ctrl-w**| write current file to specified file name | 
+
